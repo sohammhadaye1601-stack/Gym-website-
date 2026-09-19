@@ -1,0 +1,6 @@
+{
+  "name": "SLAM Nanganallur - Lifestyle & Fitness Studio",
+  "description": "Premium fitness, sports training, physiotherapy and wellness under one roof in Nanganallur, Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
